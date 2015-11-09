@@ -38,6 +38,7 @@ final class StaticWordLibrary extends WordLibrary {
 //commit 1
     private static final String[] WORD_LIST = {
         "CommitIsaac1",
+        "CommitIsaac2",
         "abstraction",
         "ambiguous",
         "arithmetic",
