@@ -39,6 +39,7 @@ final class StaticWordLibrary extends WordLibrary {
 //commit 2
 //commit 3    
     private static final String[] WORD_LIST = {
+        
         "abstraction",
         "ambiguous",
         "arithmetic",
